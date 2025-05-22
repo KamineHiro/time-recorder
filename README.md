@@ -1,6 +1,9 @@
 # ここから誰でも使えます↓
 https://time-recorder-ohkd.vercel.app
 
+## 📸 アプリの画面
+
+![アプリの画面](images/screenshot.png)
 
 # 説明　
 
