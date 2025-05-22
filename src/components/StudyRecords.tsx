@@ -130,7 +130,7 @@ const StudyRecords = ({ records, onDelete }: StudyRecordsProps) => {
                   <svg viewBox="0 0 100 100" className="w-full h-full">
                     {subjectPercentages.map((item, index) => {
                       // 円グラフのセグメントを計算
-                      let cumulativePercentage = subjectPercentages
+                      const cumulativePercentage = subjectPercentages
                         .slice(0, index)
                         .reduce((acc, curr) => acc + curr.percentage, 0);
                       
