@@ -3,7 +3,7 @@ https://time-recorder-ohkd.vercel.app
 
 ## 📸 アプリの画面
 
-![アプリの画面](images/screenshot.png)
+![アプリの画面](public/images/appImage.png)
 
 # 説明　
 
